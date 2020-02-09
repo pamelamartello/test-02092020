@@ -1,6 +1,7 @@
 baseurl = "https://example.org/"
 title = "2020.02.09 WEBSITE TEST"
 theme = "hugo-creative-portfolio-theme-master"
+publishDir = "docs"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
