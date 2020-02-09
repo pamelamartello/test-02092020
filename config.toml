@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://pamelamartello.github.io/test-02092020/"
 title = "2020.02.09 WEBSITE TEST"
 theme = "hugo-creative-portfolio-theme-master"
 publishDir = "docs"
